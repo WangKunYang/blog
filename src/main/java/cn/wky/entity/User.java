@@ -5,4 +5,7 @@ package cn.wky.entity;
  * @create 2020-05-13-13:27
  */
 public class User {
+
+    private String username;
+    private Integer age;
 }
